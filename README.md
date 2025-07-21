@@ -22,11 +22,11 @@ This project analyzes real-time network traffic captured using **Wireshark** to 
 
 ## Project Files
 
-| File Name                    | Description                              |
-|-----------------------------|------------------------------------------|
-| `Wireshark_Traffic.pcapng`  | Raw capture file from Wireshark          |
-| `Wireshark_Traffic_Report.pdf` | Detailed protocol analysis report        |
-| `Screenshots/`              | Contains protocol-specific screenshots   |
+| File Name                                       | Description                              |
+|-------------------------------------------------|------------------------------------------|
+| `Wireshark_Traffic.pcapng`                      | Raw capture file from Wireshark          |
+| `Wireshark Packet Analysis Project Report.docx` | Detailed protocol analysis report        |
+| `screenshort/`                                  | Contains protocol-specific screenshots   |
 
 ---
 
